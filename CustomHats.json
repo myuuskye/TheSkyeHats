@@ -1,0 +1,20 @@
+{
+    "hats": [
+        {
+            "name": "ヒヤリハット",
+            "author": "ゆっくりスカイ",
+            "package": "theskyehats",
+            "condition": "None",
+            "resource": "hiyarihat.png",
+            "climbresource": "hiyarihat_climb.png",
+        },
+        {
+            "name": "俺を超えていけ！",
+            "author": "ゆっくりスカイ",
+            "package": "theskyehats",
+            "condition": "None",
+            "resource": "hashigo.png",
+            "climbresource": "hashigo_climb.png",
+        }
+             ]
+}
